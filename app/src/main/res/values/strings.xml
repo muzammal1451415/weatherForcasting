@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Forcast</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+
+    <string name="msg_please_enable_location_services">Please enable Location services</string>
+    <string name="msg_on">ON</string>
+    <string name="msg_cancel">CANCEL</string>
+    <string name="text_permission_denied">Permission Denied</string>
+    <string name="msg_error_in_getting_current_location">Error in getting current location</string>
+
+</resources>
